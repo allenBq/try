@@ -1,0 +1,32 @@
+body{
+    background-color:black;
+}
+/* ----------------------Showcase Part 1 with Navigator ---------------------- */
+.front{
+    color:yellow;
+}
+.title{
+    color:white;
+    display:flex;
+    font-size:80px;
+    justify-content:center;
+}
+.ls_intro{
+    color:white;
+}
+
+.showcase{
+    background-image: url(img/bg.jpg);
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#S{
+    display:flex;
+    justify-content: space-evenly;
+}
